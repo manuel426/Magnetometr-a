@@ -1,15 +1,3 @@
-
-
-/Gem Systems GSM-19T 0023521 v7.0 23 IV 2009 M t-e2.v7                            
-/ID 99001
-
-/Gem Systems GSM-19T 0023521 v7.0 23 IV 2009 M t-e2.v7                            
-/ID 99001
-
-/Gem Systems GSM-19T 0023521 v7.0 23 IV 2009 M t-e2.v7                            
-/ID 99001 file 50catafe.m   21 IX 14
-/
-/X Y nT sq cor-nT time 
  20  30  31236.98 99  000000.00 152411.2 
 -5  0  31306.17 39  000000.00 153029.2 
  0  0  31258.88 99  000000.00 153219.5 
